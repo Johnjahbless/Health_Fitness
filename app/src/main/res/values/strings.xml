@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Fitness Health</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="admob_interstetial_ad">ca-app-pub-3517746418699749/8367250510</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Fitness Health</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Welcome To Fintness Health</string>
+    <string name="title1">Welcome to Fitness Health!</string>
+    <string name="lungs">which use glucose and ATP for contraction and movement. To create more ATP, your body needs extra oxygen, so breathing increases and your heart starts pumping more blood to your muscles. Without sufficient oxygen, lactic acid will form instead. Tiny tears in your muscles make them grow bigger and stronger as they heal.</string>
+    <string name="title12">This a featured article that highlights a number of biological effects that occur, from head to toe, when you exercise. This includes changes in your:</string>
+    <string name="lungs1">As your muscles call for more oxygen (as much as 15 times more oxygen than when you\'re at rest), your breathing rate increases. Once the muscles surrounding your lungs cannot move any faster, you\'ve reached what\'s called your VO2 max—your maximum capacity of oxygen use. The higher your VO2 max, the fitter you are.</string>
+    <string name="heart">As mentioned, your heart rate increases with physical activity to supply more oxygenated blood to your muscles. The fitter you are, the more efficiently your heart can do this, allowing you to work out longer and harder. As a side effect, this increased efficiency will also reduce your resting heart rate. Your blood pressure will also decrease as a result of new blood vessels forming.</string>
+    <string name="brain">The increased blood flow also benefits your brain, allowing it to almost immediately function better. As a result, you tend to feel more focused after a workout. Furthermore, exercising regularly will promote the growth of new brain cells. In your hippocampus, these new brain cells help boost memory and learning.</string>
+    <string name="bones">as exercise can place as much as five or six times more than your body weight on them. Peak bone mass is achieved in adulthood and then begins a slow decline, but exercise can help you to maintain healthy bone mass as you get older. Weight-bearing exercise is actually one of the most effective remedies against osteoporosis, as your bones are very porous and soft, and as you get older your bones can easily become less dense and hence, more brittle -- especially if you are inactive.</string>
+    <string name="feat">What Happens to Your Body When You Exercise?</string>
+    <string name="shower">6 Things You Should Never Do in the Shower.</string>
+    <string name="shower1">Your shower can be an awkward, dangerous place—and we don\'t just mean what happens when you bring a woman home to wash off. Believe it or not, your safety is on the line every time you hop in and steam up the bathroom. Avoid making these wet moves to avoid injury and embarrassment..</string>
+    <string name="old">Almost one-third of showerheads contain potentially dangerous bacteria, according to a study from the University of Colorado at Boulder. That\'s because they\'re full of nooks and crannies that provide an ideal home for microbes. You can clean them with bleach, but the bacteria will eventually grow back. Another strike: High-efficiency showerheads give off aerosol, or water that usually contains bad bacteria and can penetrate into your deep airways, says study author Norman R. Pace, Ph.D. Use a rain-type showerhead or remove it altogether and go with a single stream of water.</string>
+    <string name="thund">It\'s dangerous to be near any plumbing or wiring inside when thunderstorms are going on, says Mary M. Cooper, M.D., of the Lightning Injury Research Program at the University of Illinois at Chicago. Avoid showers, baths, dishwashing by hand, playing hard-wired video games or computers, and talking on hard-wired phones. Lightning can hit a power line or the ground and come through your pipes, says Dr. Cooper. Even at a distance from your house, the dose is still enough to shock you and damage any electronics.</string>
+    <string name="bed">Getting wet before bed Showering at night can trim time off your morning routine, especially if you like to sleep in. But don\'t hop in right before bed. Hot showers should be taken more than two hours prior to hitting the hay, because the temperature change disturbs your body\'s natural triggers that help you fall asleep, says research inThe American Journal of Biology.</string>
+    <string name="sex">A slippery tub, a steady stream of hot water and limited room to move around make the shower a less-than-ideal spot for sex—not to mention a falling safety hazard. Lou Page, author ofThe Great Lover Playbook, says you can do everything in the showerbesidesfull-on intercourse to avoid any bad falls. Save that for when you\'re on dry ground.</string>
+    <string name="mat">According to a 2011 report from the Centers for Disease Control and Prevention, more than 230,000 accidental injuries occurred in the bathroom or shower in just one year. Almost 20 percent of those injuries were due to slipping. Put non-slip strips or a mat in your tub and consider adding grab bars inside and outside the shower to reduce falls.</string>
+    <string name="loofa">They\'re great for exfoliating and sloughing off dead skin, but loofahs are also loaded with germs. Wash yours once a week either with a diluted vinegar soak, or by running it through the dishwasher. Wring it out post-shower and hang it on a rack where it can dry out as much as possible. And if you decide to switch to a washcloth, make sure you clean that every week as well.</string>
+    <string name="start">Start your daily fitness journey by reading articles just for you.</string>
+    <string name="data">(Check your phone data connection before you proceed)</string>
+    <string name="my">Start My Journey</string>
+    <string name="facts">10 Interesting Facts About The Human Brain</string>
+    <string name="full">The human brain is the most complex organ in the human body and probably the most complex creation present on this universe. It is evident that, the world’s greatest man made wonders are a result of the human brain making it the most amazing feature in a human being. The human brain with its complexity acts like a storage device which holds safely a person’s most cherished memories. A person’s personality is by far influenced by the brain as well as generation of human consciousness which gives a person passion, motion and emotion. A command center for the central nervous system, the brain serves human beings with ample physical and cognitive abilities. This are just a few vital roles that the human brain performs but the most amazing thing about the human brain are the many facts that are less known by many people with a fully functional brain.</string>
+    <string name="brain2">1 – The human brain is the only organ in the human body that lacks nerves despite the fact that it acts as the central command for the central nervous system. This simply implies that, the human brain feels no pain.</string>
+    <string name="brainTitle">The human brain is the most complex organ in the human body and probably the most complex creation present on this universe. It is evident that, the world’s greatest man made wonders are a result of the human brain making it the most amazing feature in a human being. The human brain with its complexity acts like a storage device which holds safely a person’s most cherished memories. A person’s personality is by far influenced by the brain as well as generation of human consciousness which gives a person passion, motion and emotion. A command center for the central nervous system, the brain serves human beings with ample physical and cognitive abilities. This are just a few vital roles that the human brain performs but the most amazing thing about the human brain are the many facts that are less known by many people with a fully functional brain.</string>
+    <string name="brain4">3 – The number of neurons present in the brain is approximately 100 billion which is about 15 times of the total human population on earth. This high number of neurons increases the processing ability of the brain.</string>
+    <string name="brain6">5 – The neocortex is the portion of the human brain that is responsible for language and consciousness. It makes up approximately 76% of the human brain and making it the largest when compared to that in other animals.</string>
+    <string name="brain7">6 – It is believed by many that, human beings use less than 10% of their brain. This is a misconception because each and every part of the brain has a known function.</string>
+    <string name="brain8">7 – During early pregnancy, neurons have shown to multiply at a rate of 250,000 neurons per minute</string>
+    <string name="brain9">8 – About 15-20% (750ml) of the total cardiac output is directed to the brain every minute.</string>
+    <string name="brain10">9 – The energy consumed by the brain which is approximately 25 watts is sufficient enough to illuminate a light bulb.</string>
+    <string name="brain11">10 – The human brain is not as perfect as it is thought of since in many instances it has been found to fool human beings making them to perceive things differently from the reality. There can be little doubt, the human brain is truly an incredible body organ that requires maximum care to keep vital body processes running.</string>
+    <string name="about">YourHealth provides and gives valuable Health information,
+        tools for managing your health and support to those who seek health information.
+        Our mission is to bring you the most objective, trustworthy and accurate health
+        information, we are committed to providing information on a wide variety of health
+        topics. Be aware, however, that information on YourHealth app/website or any other
+        websites should not be used as a substitute for professional health care.
+        You should always seek the advice of your physician or other qualified health
+        provider with any questions you may have regarding a medical condition.
+        Never disregard professional medical advice or delay in seeking it because of
+        something you have read on our website or any websites.
+        You can trust that our content is timely and credible.</string>
+    <string name="fitness_health">Fitness Health</string>
+    <string name="version_5_0">Version 5.7</string>
+</resources>

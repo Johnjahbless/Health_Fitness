@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/fitness"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    tools:context="com.kolowaphealth.fitnesshealth.HomeFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:textColor="@color/colorPrimary"
+        android:id="@+id/title"
+        android:layout_marginTop="130dp"
+        android:paddingBottom="15dp"
+          android:gravity="center_horizontal"
+          android:textStyle="normal"
+          android:textSize="30sp"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Daily Health Tips"
+          />
+
+    <Button
+        android:textColor="#ffffff"
+        android:background="@color/colorPrimary"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/first"
+        android:onClick="goToActivity_main5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="START"
+        />
+
+    <Button
+        android:textColor="#ffffff"
+        android:background="@color/colorPrimary"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:id="@+id/first1"
+        android:onClick="goToActivity_main6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GO OFFLINE"
+        />
+    </LinearLayout>
+<RelativeLayout
+    android:layout_alignParentBottom="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <FrameLayout
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        android:id="@+id/youtube_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        />
+    </RelativeLayout>
+</RelativeLayout>
